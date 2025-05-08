@@ -69,3 +69,4 @@ ___
 
 # **Data Visualisation**
 
+![Sample Chart](HappinessDash.pdf)
