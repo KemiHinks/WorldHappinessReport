@@ -64,3 +64,8 @@ ___
 b) Amongst these countries which variable experienced the greatest incline?    
 9) a)Identify which 15 countries had the smallest incline/greatest decline in happiness according to its happiness score from 2020 to 2024.  
 b) Amongst these countries which variable experienced the greatest decline?  
+
+___
+
+# **Data Visualisation**
+
