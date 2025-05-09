@@ -61,9 +61,9 @@ ___
 6) Determine the coefficient of correlation between the happiness score and each key variable using the 30 happiest and least happiest countries in 2022 (The year with the highest average happiness score).   
 7) Determine the coefficient of correlation between the happiness score and each key variable using the 30 happiest and least happiest countries over the 5 year period.   
 8) a) Identify which 15 countries have the highest incline in happiness according to its happiness score from 2020 to 2024. (Only include countries that are present in both data sets)  
-b) Amongst these countries which variable experienced the greatest incline?    
+b) Amongst these countries which variable experienced the greatest incline (%)?    
 9) a)Identify which 15 countries had the smallest incline/greatest decline in happiness according to its happiness score from 2020 to 2024.  
-b) Amongst these countries which variable experienced the greatest decline?  
+b) Amongst these countries which variable experienced the greatest decline (%)?  
 
 ___
 
