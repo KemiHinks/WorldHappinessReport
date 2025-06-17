@@ -58,14 +58,30 @@ ___
 3) Compare the happiness averages and percentages in 2024 against that of 2020.  Which year had the highest average happiness score recorded and which had the lowest?  
 4) Compare the happiness averages and percentages across the 5 year period.  Which year had the highest average happiness score recorded and which had the lowest?  
 5) Determine the coefficient of correlation between the happiness score and each key variable using the 30 happiest and least happiest countries according to happiness score in 2020 (The year with the lowest average happiness score).    
-6) Determine the coefficient of correlation between the happiness score and each key variable using the 30 happiest and least happiest countries in 2022 (The year with the highest average happiness score).   
-7) Determine the coefficient of correlation between the happiness score and each key variable using the 30 happiest and least happiest countries over the 5 year period.   
+6) Determine the coefficient of correlation between the happiness score and each key variables using the 30 happiest and least happiest countries in 2022 (The year with the highest average happiness score).   
+7) Determine the coefficient of correlation between the happiness score and each key variables using the 30 happiest and least happiest countries over the 5 year period.   
 8) a) Identify which 15 countries have the highest incline in happiness according to its happiness score from 2020 to 2024. (Only include countries that are present in both data sets)  
 b) Amongst these countries which variable experienced the greatest incline (%)?    
 9) a)Identify which 15 countries had the smallest incline/greatest decline in happiness according to its happiness score from 2020 to 2024.  
 b) Amongst these countries which variable experienced the greatest decline (%)?  
 
 ___
+
+# **INSIGHTS**
+
+1. For 2020 the average happiness score in 2022 was 5.554
+
+2. The majority of countries recorded a happiness score greater than the average for 2020 but the majority was slight, at 52%.
+
+3. The average happiness score increased from 2020 to 2024, the amount of countries that experienced happiness above this average also increased to 56%.
+
+4. The average happiness score experiences little changes and small fluctuations throughout the 5 year period. 2022 has the highest average score recorded.
+
+5. Amongst the 30 countries deemed happiest in 2020, there is a positive correlation coefficient between the happiness score and each variable. The strongest positive relationship being with perceptions of corruption followed by social support then freedom to make life choices. All indicators contribute towards happiness for these countries and provide a focal point for improvement.
+
+Predictors of happiness are weak for the 30 least happiest countries. The results indicate a nonlinear relationship suggesting that key indicators of happiness lie outside of the report. The strongest relationship was with social support, which had a correlation coefficient 0.48. Although social support does serve as an indicator,  strong indicators that remain unmeasured are likely to exist
+
+6. Amongst the 30 happiest and least happiest countries in 2022 the strongest indicator of happiness is social support. The correlation weakened amongst the happiest countries. 
 
 # **Data Visualisation**
 Interact with the dashboard here: https://public.tableau.com/app/profile/kemi.hinkson.adewunmi/viz/worldhappiness_17465373087460/Dashboard1 
