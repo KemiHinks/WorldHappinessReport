@@ -79,9 +79,11 @@ ___
 
 5. Amongst the 30 countries deemed happiest in 2020, there is a positive correlation coefficient between the happiness score and each variable. The strongest positive relationship being with perceptions of corruption followed by social support then freedom to make life choices. All indicators contribute towards happiness for these countries and provide a focal point for improvement.
 
-Predictors of happiness are weak for the 30 least happiest countries. The results indicate a nonlinear relationship suggesting that key indicators of happiness lie outside of the report. The strongest relationship was with social support, which had a correlation coefficient 0.48. Although social support does serve as an indicator,  strong indicators that remain unmeasured are likely to exist
+Predictors of happiness are weak for the 30 least happiest countries. The results indicate a nonlinear relationship suggesting that key indicators of happiness lie outside of the report. The strongest relationship being with social support, which had a correlation coefficient 0.48. Although social support does serve as an indicator,  strong indicators that remain unmeasured are likely to exist
 
-6. Amongst the 30 happiest and least happiest countries in 2022 the strongest indicator of happiness is social support. The correlation weakened amongst the happiest countries. 
+6. Amongst the 30 happiest and least happiest countries of 2022 the strongest indicator of happiness is social support. The correlation with all others indicators is weak amongst the unhappiest countries with a nonlinear relationship displayed.
+
+7. The correlation between the indicators and happiness score has weakened for the 30 happiest countries, particularly perceptions of corruption, generosity and GDP Per Capita.
 
 # **Data Visualisation**
 Interact with the dashboard here: https://public.tableau.com/app/profile/kemi.hinkson.adewunmi/viz/worldhappiness_17465373087460/Dashboard1 
