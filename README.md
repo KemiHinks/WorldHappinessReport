@@ -61,7 +61,7 @@ ___
 6) Determine the coefficient of correlation between the happiness score and each key variables using the 30 happiest and least happiest countries in 2022 (The year with the highest average happiness score).   
 7) Determine the coefficient of correlation between the happiness score and each key variables using the 30 happiest and least happiest countries over the 5 year period.   
 8) a) Identify which 15 countries have the highest incline in happiness according to its happiness score from 2020 to 2024. (Only include countries that are present in both data sets)  
-b) Amongst these countries which variable experienced the greatest incline (%)?    
+b) Among these countries which variable experienced the greatest incline (%)?    
 9) a)Identify which 15 countries had the smallest incline/greatest decline in happiness according to its happiness score from 2020 to 2024.  
 b) Amongst these countries which variable experienced the greatest decline (%)?  
 
@@ -77,15 +77,18 @@ ___
 
 4. The average happiness score experiences little changes and small fluctuations throughout the 5 year period. 2022 has the highest average score recorded.
 
-5. Amongst the 30 countries deemed happiest in 2020, there is a positive correlation coefficient between the happiness score and each variable. The strongest positive relationship being with perceptions of corruption followed by social support then freedom to make life choices. All indicators contribute towards happiness for these countries and provide a focal point for improvement.
-
+5. Among the 30 countries deemed happiest in 2020, there is a positive correlation coefficient between the happiness score and each variable. The strongest positive relationship being with perceptions of corruption followed by social support then freedom to make life choices. All indicators contribute towards happiness for these countries and provide a focal point for improvement.
 Predictors of happiness are weak for the 30 least happiest countries. The results indicate a nonlinear relationship suggesting that key indicators of happiness lie outside of the report. The strongest relationship being with social support, which had a correlation coefficient 0.48. Although social support does serve as an indicator,  strong indicators that remain unmeasured are likely to exist
 
-6. Amongst the 30 happiest and least happiest countries of 2022 the strongest indicator of happiness is social support. The correlation with all others indicators is weak amongst the unhappiest countries with a nonlinear relationship displayed.
+6. Among the 30 happiest and least happiest countries of 2022 the strongest indicator of happiness is social support. The correlation with all others indicators is weak amongst the unhappiest countries with a nonlinear relationship displayed.
 
 7. The correlation between the indicators and happiness score has weakened for the 30 happiest countries, particularly perceptions of corruption, generosity and GDP Per Capita.
 
-# **Data Visualisation**
+8. Among the 15 countries that experienced the greatest increase in their happiness scores, most were originally ranked in the lower quartile of the global happiness index. The increased ranged from 8% to 17%. The majority of these countries experienced a rise in GDP Per Capita, increased feeling of freedom and a reduced perception of corruption and a significant decline in generosity and healthy life expectancy.
+
+9. Among the 15 countries that experienced the greatest decrease in their happiness scores, a high majority originally ranked in the lower quartile of the global happiness index. The decreased ranged from -7% to -44%. There was a significant decline in social support, generosity and healthy life expectancy. A more promininent rise in GDP Per Capita was also experienced.
+
+    
 Interact with the dashboard here: https://public.tableau.com/app/profile/kemi.hinkson.adewunmi/viz/worldhappiness_17465373087460/Dashboard1 
 
 ![](visual.jpg)
