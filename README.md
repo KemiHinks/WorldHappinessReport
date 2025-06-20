@@ -71,15 +71,15 @@ ___
 
 1. For 2020 the average happiness score in 2022 was 5.554
 
-2. The majority of countries recorded a happiness score greater than the average for 2020 but the majority was slight, at 52%.
+2. A slight majority of countries (52%) reported happiness scores above the 2020 global average, indicating a marginal overall improvement in well-being across nations during that period.
 
-3. The average happiness score increased from 2020 to 2024, the amount of countries that experienced happiness above this average also increased to 56%.
+3. The global average happiness score increased from 2020 to 2024. The amount of countries that experienced happiness above this average increased to 56%.
 
 4. The average happiness score experiences little changes and small fluctuations throughout the 5 year period. 2022 has the highest average score recorded.
 
 5. Among the 30 countries deemed happiest in 2020, there is a positive correlation coefficient between the happiness score and each variable. The strongest positive relationship being with perceptions of corruption followed by social support then freedom to make life choices. All indicators contribute towards happiness for these countries and provide a focal point for improvement.
 
-Predictors of happiness are weak for the 30 least happiest countries. The results indicate a nonlinear relationship suggesting that key indicators of happiness lie outside of the report. The strongest relationship being with social support, which had a correlation coefficient 0.48. Although social support does serve as an indicator,  strong indicators that remain unmeasured are likely to exist
+For the 30 least happy countries, the standard predictors of happiness show weak explanatory power. The findings suggest a nonlinear relationship, implying that key drivers of happiness in these countries may fall outside the scope of the current report. Among the measured variables, social support exhibits the strongest correlation with happiness (0.48). While this indicates some predictive value, there is a likelihood that other, more influential factors remain unmeasured. 
 
 6. Among the 30 happiest and least happiest countries of 2022 the strongest indicator of happiness is social support. The correlation with all others indicators is weak amongst the unhappiest countries with a nonlinear relationship displayed.
 
